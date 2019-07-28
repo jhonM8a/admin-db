@@ -1,0 +1,24 @@
+{
+  "name": "admin-db",
+  "version": "1.0.0",
+  "description": "This is module db of admin. Here models and connectios to bd for sentences DDL and DML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard"
+  },
+  "keywords": [
+    "DB",
+    "Sequelize",
+    "node",
+    "admin"
+  ],
+  "author": "Jhon M. Ochoa L.",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^13.1.0"
+  },
+  "dependencies": {
+    "sequelize": "^5.11.0"
+  }
+}
