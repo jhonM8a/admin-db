@@ -19,6 +19,6 @@
     "standard": "^13.1.0"
   },
   "dependencies": {
-    "sequelize": "^5.11.0"
+    "sequelize": "^5.15.1"
   }
 }
